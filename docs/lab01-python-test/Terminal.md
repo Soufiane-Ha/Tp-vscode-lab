@@ -7,3 +7,11 @@ PS C:\Users\ELITE COMPUTER\Tp-vscode-lab\docs\lab01-python-test> .\venv\Scripts\
 (venv) PS C:\Users\ELITE COMPUTER\Tp-vscode-lab\docs\lab01-python-test> 
 ```
 
+### result of Run command: 
+
+```powershell
+PS C:\Users\ELITE COMPUTER\Tp-vscode-lab> & "C:/Users/ELITE COMPUTER/AppData/Local/Python/bin/python.exe" "c:/Users/ELITE COMPUTER/Tp-vscode-lab/docs/lab01-python-test/main.py"
+Hello, World!
+PS C:\Users\ELITE COMPUTER\Tp-vscode-lab> 
+```
+
