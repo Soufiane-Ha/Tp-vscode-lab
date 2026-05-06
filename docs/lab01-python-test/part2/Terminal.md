@@ -69,3 +69,20 @@ FAILED docs/lab01-python-test/part2/test_prime.py::test_is_prime - assert False 
 ================== 1 failed, 2 passed in 0.31s ================== 
 PS C:\Users\ELITE COMPUTER\Tp-vscode-lab> 
 ```
+
+### Test is_prime part 2 pytest run corrected result:
+
+```powershell
+PS C:\Users\ELITE COMPUTER\Tp-vscode-lab> python -m pytest
+====================== test session starts ======================
+platform win32 -- Python 3.14.4, pytest-9.0.3, pluggy-1.6.0       
+rootdir: C:\Users\ELITE COMPUTER\Tp-vscode-lab
+collected 3 items                                                
+
+docs\lab01-python-test\part2\test_factorial.py .           [ 33%] 
+docs\lab01-python-test\part2\test_prime.py .               [ 66%]
+docs\lab01-python-test\test_main.py .                      [100%] 
+
+======================= 3 passed in 0.04s ======================= 
+PS C:\Users\ELITE COMPUTER\Tp-vscode-lab> 
+```
