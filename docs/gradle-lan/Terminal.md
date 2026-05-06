@@ -75,3 +75,13 @@ BUILD SUCCESSFUL in 8s
 PS C:\Users\ELITE COMPUTER\Tp-vscode-lab\docs\gradle-lan> 
   
 ```
+
+### command for running the gradle jar file:
+
+```powershell
+PS C:\Users\ELITE COMPUTER\Tp-vscode-lab\docs\gradle-lan> gradle jar
+
+BUILD SUCCESSFUL in 1m 38s
+2 actionable tasks: 2 executed
+PS C:\Users\ELITE COMPUTER\Tp-vscode-lab\docs\gradle-lan> 
+```
