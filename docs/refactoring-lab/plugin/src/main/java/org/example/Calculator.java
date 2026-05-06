@@ -1,3 +1,5 @@
+package org.example;
+
 public class Calculator {
     public double calc(double a, double b) {
         double x = a + b;
