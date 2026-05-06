@@ -9,7 +9,7 @@ public class CalculatorTest {
     void testCalc() {
         Calculator calculator = new Calculator();
 
-        double result = calculator.calc(2, 3);
+        double result = calculator.calculateResult(2, 3);
 
         assertEquals(0.8333, result, 0.0001);
     }

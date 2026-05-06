@@ -38,3 +38,16 @@ BUILD SUCCESSFUL in 27s
 6 actionable tasks: 6 executed
 PS C:\Users\ELITE COMPUTER\Tp-vscode-lab\docs\refactoring-lab> 
 ```
+
+### After Applying the changes on the code and refoctoring and run the test:
+
+```powershell
+PS C:\Users\ELITE COMPUTER\Tp-vscode-lab\docs\refactoring-lab> ./gradlew test
+
+BUILD SUCCESSFUL in 8s
+6 actionable tasks: 3 executed, 3 up-to-date
+PS C:\Users\ELITE COMPUTER\Tp-vscode-lab\docs\refactoring-lab> 
+
+
+
+```
